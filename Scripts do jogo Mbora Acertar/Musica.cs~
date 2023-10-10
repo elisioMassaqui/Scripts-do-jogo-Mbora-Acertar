@@ -1,0 +1,17 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Audio;
+public class Musica : MonoBehaviour {
+
+	AudioSource SelenaG;
+
+	void Update()
+	{
+		SelenaG = GetComponent <AudioSource> ();
+	}
+		void Awake()
+		{
+		AudioSource.DestroyObject (SelenaG, 0.0f);
+	}
+}

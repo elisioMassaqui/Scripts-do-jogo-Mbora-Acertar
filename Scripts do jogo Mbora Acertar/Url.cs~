@@ -1,0 +1,21 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Url : MonoBehaviour {
+	public string   OpenUrl;
+
+	// Use this for initialization
+	void Start () {
+		
+		
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		
+		OpenUrl = Application.OpenURL ("free.facebook.com/profile.php?ref_component=mfreebasic_home_header&ref_page=MMessagingEntBasedReadController&refid=12");
+		
+
+	}
+}
