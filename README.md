@@ -1,4 +1,4 @@
-# Scripts-do-jogo-Mbora-Acertar
+# Scripts-do-jogo-Mbora-Acertar 2D
 Made With Unity In 2022
 Repositório de Scripts do Jogo "Mbora Acertar" (Unity, 2022)
 Bem-vindo ao repositório de scripts do jogo "Mbora Acertar"! Este é um jogo emocionante desenvolvido em Unity em 2022, e este repositório contém uma coleção de scripts essenciais que tornam o jogo possível. Neste texto, vamos dar uma visão geral dos principais scripts presentes neste repositório, destacando suas funções e importância no jogo.
